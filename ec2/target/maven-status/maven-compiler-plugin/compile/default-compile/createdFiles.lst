@@ -1,0 +1,15 @@
+aws/example/ec2/DescribeAddresses.class
+aws/example/ec2/StartStopInstance.class
+aws/example/ec2/DeleteKeyPair.class
+aws/example/ec2/CreateKeyPair.class
+aws/example/ec2/CreateInstance.class
+aws/example/ec2/DescribeInstances.class
+aws/example/ec2/DeleteSecurityGroup.class
+aws/example/ec2/MonitorInstance.class
+aws/example/ec2/CreateSecurityGroup.class
+aws/example/ec2/DescribeKeyPairs.class
+aws/example/ec2/DescribeRegionsAndZones.class
+aws/example/ec2/AllocateAddress.class
+aws/example/ec2/ReleaseAddress.class
+aws/example/ec2/RebootInstance.class
+aws/example/ec2/DescribeSecurityGroups.class

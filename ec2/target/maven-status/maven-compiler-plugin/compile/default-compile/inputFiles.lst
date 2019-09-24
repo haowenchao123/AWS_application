@@ -1,0 +1,15 @@
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/DeleteKeyPair.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/RebootInstance.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/ReleaseAddress.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/CreateInstance.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/DescribeInstances.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/MonitorInstance.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/DeleteSecurityGroup.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/StartStopInstance.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/DescribeSecurityGroups.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/AllocateAddress.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/DescribeKeyPairs.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/DescribeAddresses.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/CreateSecurityGroup.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/DescribeRegionsAndZones.java
+/home/bjhwchao/AWS_application/AWS_application/ec2/src/main/java/aws/example/ec2/CreateKeyPair.java
