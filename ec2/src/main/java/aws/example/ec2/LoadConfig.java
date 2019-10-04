@@ -26,6 +26,10 @@ public class LoadConfig
         }
         return "Please source the LSF environment firstly";
     }
+
+    public String LoadTemplates(String env){
+	
+    }
     public static void main(String[] args)
     {
         LoadConfig lc = new LoadConfig();
